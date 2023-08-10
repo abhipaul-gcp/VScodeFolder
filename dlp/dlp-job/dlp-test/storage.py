@@ -10,6 +10,6 @@ pii_tag = bucket_tag.get("pii")
 if pii_tag and pii_tag == "aadhar":
     print("Bucket tag pii:", pii_tag)
 else:
-    print("No pii tag found . Tag =", pii_tag)
+    print("No pii tag found . Tag : ", pii_tag)
 
 # This code is working fine
