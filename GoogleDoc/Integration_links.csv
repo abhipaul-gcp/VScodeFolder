@@ -1,0 +1,112 @@
+Title,Link
+Gemini Enterprise overview,https://cloud.google.com/gemini/enterprise/docs
+Gemini Enterprise concepts,https://cloud.google.com/gemini/enterprise/docs/concepts
+Compare editions,https://cloud.google.com/gemini/enterprise/docs/editions
+"NotebookLM Enterprise, Gemini Enterprise, or both?",https://cloud.google.com/gemini/enterprise/docs/choose-product
+Go to NotebookLM Enterprise documentation,https://cloud.google.com/gemini/enterprise/notebooklm-enterprise/docs/overview
+Before you begin,https://cloud.google.com/gemini/enterprise/docs/before-you-begin
+Gemini Enterprise Quickstart Guide,https://cloud.google.com/gemini/enterprise/docs/quickstart-gemini-enterprise
+Get licenses for Gemini Enterprise,https://cloud.google.com/gemini/enterprise/docs/licenses
+Set up Gemini Enterprise with the Gemini Enterprise assist,https://cloud.google.com/gemini/enterprise/docs/setup-gemini-enterprise-assist
+Security Overview,https://cloud.google.com/gemini/enterprise/docs/security-overview
+IAM roles and permissions,https://cloud.google.com/gemini/enterprise/docs/access-control
+Configure identity provider,https://cloud.google.com/gemini/enterprise/docs/configure-identity-provider
+Secure your app with VPC Service Controls,https://cloud.google.com/gemini/enterprise/docs/use-vpc-service-controls
+Map external identities,https://cloud.google.com/gemini/enterprise/docs/identity-mapping
+Map external identities,https://cloud.google.com/gemini/enterprise/docs/identity-mapping
+Configure access controls for custom data sources,https://cloud.google.com/gemini/enterprise/docs/identity
+About apps and data stores,https://cloud.google.com/gemini/enterprise/docs/apps-data-stores
+Introduction to connectors and data stores,https://cloud.google.com/gemini/enterprise/docs/introduction-to-connectors-and-data-stores
+Introduction to connectors and data stores,https://cloud.google.com/gemini/enterprise/docs/introduction-to-connectors-and-data-stores
+Introduction to self-hosted data sources,https://cloud.google.com/gemini/enterprise/docs/introduction-to-self-hosted
+Prepare data for custom data sources,https://cloud.google.com/gemini/enterprise/docs/prepare-data
+Overview,https://cloud.google.com/gemini/enterprise/docs/create-data-store
+Overview,https://cloud.google.com/gemini/enterprise/docs/create-data-store
+Import from BigQuery,https://cloud.google.com/gemini/enterprise/docs/connect-bigquery
+Import from Cloud Storage,https://cloud.google.com/gemini/enterprise/docs/connect-cloud-storage
+Sync from Google Drive,https://cloud.google.com/gemini/enterprise/docs/connect-google-drive
+Sync from Gmail,https://cloud.google.com/gemini/enterprise/docs/connect-gmail
+Sync from Google Sites,https://cloud.google.com/gemini/enterprise/docs/connect-sites
+Sync from Google Calendar,https://cloud.google.com/gemini/enterprise/docs/connect-calendar
+Sync from Google Groups,https://cloud.google.com/gemini/enterprise/docs/connect-groups
+Sync people data,https://cloud.google.com/gemini/enterprise/docs/connect-people
+Import people data from a custom source,https://cloud.google.com/gemini/enterprise/docs/connect-people-custom
+Enable NotebookLM Enterprise as a search source,https://cloud.google.com/gemini/enterprise/docs/connect-notebooklm
+Import from Cloud SQL,https://cloud.google.com/gemini/enterprise/docs/connect-cloud-sql
+Import from Spanner,https://cloud.google.com/gemini/enterprise/docs/connect-spanner
+Import from Firestore,https://cloud.google.com/gemini/enterprise/docs/connect-firestore
+Import from Bigtable,https://cloud.google.com/gemini/enterprise/docs/connect-bigtable
+Import from AlloyDB for PostgreSQL,https://cloud.google.com/gemini/enterprise/docs/connect-alloydb
+Connect to data from AlloyDB for PostgreSQL,https://cloud.google.com/gemini/enterprise/docs/connect-alloydb-data
+Create a data store using Terraform,https://cloud.google.com/gemini/enterprise/docs/connect-terraform
+Overview,https://cloud.google.com/gemini/enterprise/docs/connect-third-party-data-source
+Overview,https://cloud.google.com/gemini/enterprise/docs/connect-third-party-data-source
+View data store sync activity and set up alerts,https://cloud.google.com/gemini/enterprise/docs/configure-periodic-data-alerts
+Connect Confluence Cloud,https://cloud.google.com/gemini/enterprise/docs/connect-confluence-cloud
+Connect Jira Cloud,https://cloud.google.com/gemini/enterprise/docs/connect-jira-cloud
+Connect Microsoft Entra ID,https://cloud.google.com/gemini/enterprise/docs/connect-entra-id
+Connect with data federation,https://cloud.google.com/gemini/enterprise/docs/connect-onedrive
+Connect with data federation,https://cloud.google.com/gemini/enterprise/docs/connect-onedrive
+Connect with data ingestion,https://cloud.google.com/gemini/enterprise/docs/connect-onedrive-ingestion
+Connect with data federation,https://cloud.google.com/gemini/enterprise/docs/connect-ms-outlook
+Connect with data federation,https://cloud.google.com/gemini/enterprise/docs/connect-ms-outlook
+Connect with data ingestion,https://cloud.google.com/gemini/enterprise/docs/connect-ms-outlook-ingestion
+Connect with data federation,https://cloud.google.com/gemini/enterprise/docs/connect-sharepoint-online
+Connect with data federation,https://cloud.google.com/gemini/enterprise/docs/connect-sharepoint-online
+Connect with data ingestion,https://cloud.google.com/gemini/enterprise/docs/connect-sharepoint-online-ingestion
+Connect ServiceNow,https://cloud.google.com/gemini/enterprise/docs/connect-servicenow
+Connect Box,https://cloud.google.com/gemini/enterprise/docs/connect-box
+Connect Confluence Data Center,https://cloud.google.com/gemini/enterprise/docs/connect-confluence-data-center
+Connect Jira Data Center,https://cloud.google.com/gemini/enterprise/docs/connect-jira-data-center
+Connect Microsoft Teams,https://cloud.google.com/gemini/enterprise/docs/connect-ms-teams
+Connect Salesforce,https://cloud.google.com/gemini/enterprise/docs/connect-salesforce
+Connect Slack with data federation,https://cloud.google.com/gemini/enterprise/docs/connect-slack
+Overview,https://cloud.google.com/gemini/enterprise/docs/custom-connector
+Overview,https://cloud.google.com/gemini/enterprise/docs/custom-connector
+Create a custom connector,https://cloud.google.com/gemini/enterprise/docs/create-custom-connector
+Provide or auto-detect a schema,https://cloud.google.com/gemini/enterprise/docs/provide-schema
+Parse and chunk documents,https://cloud.google.com/gemini/enterprise/docs/parse-chunk-documents
+Create an app,https://cloud.google.com/gemini/enterprise/docs/create-app
+Connect an existing data store,https://cloud.google.com/gemini/enterprise/docs/connect-existing-data-store
+Upload content to the assistant,https://cloud.google.com/gemini/enterprise/docs/upload-content
+Introduction to assistant actions,https://cloud.google.com/gemini/enterprise/docs/assistant-actions
+Introduction to assistant actions,https://cloud.google.com/gemini/enterprise/docs/assistant-actions
+Add Google Calendar and Gmail actions,https://cloud.google.com/gemini/enterprise/docs/assistant-actions-google
+Add Jira Cloud actions,https://cloud.google.com/gemini/enterprise/docs/assistant-actions-jira
+Add Outlook calendar and email actions,https://cloud.google.com/gemini/enterprise/docs/assistant-actions-outlook
+Add ServiceNow actions,https://cloud.google.com/gemini/enterprise/docs/assistant-actions-servicenow
+Use Knowledge Graph and search,https://cloud.google.com/gemini/enterprise/docs/use-knowledge-graph-search
+About user events,https://cloud.google.com/gemini/enterprise/docs/user-events
+About user events,https://cloud.google.com/gemini/enterprise/docs/user-events
+Import historical user events,https://cloud.google.com/gemini/enterprise/docs/import-user-events
+Record real-time user events,https://cloud.google.com/gemini/enterprise/docs/record-user-events
+Configure field settings,https://cloud.google.com/gemini/enterprise/docs/configure-field-settings
+Configure serving controls,https://cloud.google.com/gemini/enterprise/docs/configure-serving-controls
+Basic autocomplete,https://cloud.google.com/gemini/enterprise/docs/configure-autocomplete
+Basic autocomplete,https://cloud.google.com/gemini/enterprise/docs/configure-autocomplete
+Advanced autocomplete,https://cloud.google.com/gemini/enterprise/docs/configure-advanced-autocomplete
+Configure the app home page,https://cloud.google.com/gemini/enterprise/docs/app-home-page
+Configure the app home page,https://cloud.google.com/gemini/enterprise/docs/app-home-page
+Configure results for the UI,https://cloud.google.com/gemini/enterprise/docs/configure-ui-results
+Configure facets for the UI,https://cloud.google.com/gemini/enterprise/docs/configure-ui-facets
+Configure feedback,https://cloud.google.com/gemini/enterprise/docs/configure-feedback
+Configure the assistant,https://cloud.google.com/gemini/enterprise/docs/configure-assistant
+Configure prompt chips,https://cloud.google.com/gemini/enterprise/docs/configure-prompt-chips
+Configure Chrome Enterprise cloud-managed browsers,https://cloud.google.com/gemini/enterprise/docs/configure-chrome
+Use custom embeddings,https://cloud.google.com/gemini/enterprise/docs/bring-embeddings
+View analytics data,https://cloud.google.com/gemini/enterprise/docs/view-analytics
+Monitor long-running operations,https://cloud.google.com/gemini/enterprise/docs/long-running-operations
+View logs,https://cloud.google.com/gemini/enterprise/docs/cloud-logging
+Audit logging,https://cloud.google.com/gemini/enterprise/docs/audit-logging
+Refresh structured and unstructured data,https://cloud.google.com/gemini/enterprise/docs/refresh-data
+Update a schema,https://cloud.google.com/gemini/enterprise/docs/update-schemas
+View a schema definition,https://cloud.google.com/gemini/enterprise/docs/get-schema-definition
+Purge a first-party data store,https://cloud.google.com/gemini/enterprise/docs/delete-datastores
+Delete a schema for structured data,https://cloud.google.com/gemini/enterprise/docs/delete-schemas
+Delete an app,https://cloud.google.com/gemini/enterprise/docs/delete-app
+Delete a data store,https://cloud.google.com/gemini/enterprise/docs/delete-a-data-store
+Evaluate search quality,https://cloud.google.com/gemini/enterprise/docs/evaluate-search-quality
+Enable Access Transparency,https://cloud.google.com/gemini/enterprise/docs/access-transparency
+Use customer-managed encryption keys,https://cloud.google.com/gemini/enterprise/docs/cmek
+Enable Model Armor,https://cloud.google.com/gemini/enterprise/docs/enable-model-armor
+Turn off Gemini Enterprise,https://cloud.google.com/gemini/enterprise/docs/turn-off-gemini-enterprise

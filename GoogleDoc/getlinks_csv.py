@@ -57,5 +57,5 @@ def get_recaptcha_docs_links(base_url, output_csv="Integration_links.csv"):
         print(f"An unexpected error occurred: {e}")
 
 # Example usage
-base_url = "https://cloud.google.com/integration-connectors/docs/overview"
+base_url = "https://cloud.google.com/gemini/enterprise/docs"
 get_recaptcha_docs_links(base_url)
