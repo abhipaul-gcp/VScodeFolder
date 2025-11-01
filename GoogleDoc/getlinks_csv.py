@@ -2,12 +2,12 @@ import requests
 from bs4 import BeautifulSoup
 import csv
 
-def get_recaptcha_docs_links(base_url, output_csv="Integration_links.csv"):
+def get_Google_docs_links(base_url, output_csv="Integration_links.csv"):
     """
-    Extracts reCAPTCHA documentation links from the left navigation pane and saves them to a CSV file.
+    Extracts Google documentation links from the left navigation pane and saves them to a CSV file.
 
     Args:
-        base_url: The base URL of the reCAPTCHA documentation overview.
+        base_url: The base URL of the Google documentation overview.
         output_csv: The name of the CSV file to save the links to.
     """
     try:
@@ -49,7 +49,7 @@ def get_recaptcha_docs_links(base_url, output_csv="Integration_links.csv"):
             writer.writeheader()
             writer.writerows(results)
 
-        print(f"Successfully saved reCAPTCHA links to {output_csv}")
+        print(f"Successfully saved Google links to {output_csv}")
 
     except requests.exceptions.RequestException as e:
         print(f"Error fetching URL: {e}")
@@ -58,4 +58,4 @@ def get_recaptcha_docs_links(base_url, output_csv="Integration_links.csv"):
 
 # Example usage
 base_url = "https://cloud.google.com/gemini/enterprise/docs"
-get_recaptcha_docs_links(base_url)
+get_Google_docs_links(base_url)
