@@ -69,8 +69,8 @@ def main():
     parser = argparse.ArgumentParser(
         description="A Python script to reduce PDF file size using pypdf's compression."
     )
-    parser.add_argument("input_file", type=str, help="Path to the input PDF file.")
-    parser.add_argument("output_file", type=str, help="Path for the output (compressed) PDF file.")
+    parser.add_argument("input_file", type=str, nargs='?', default="Merged_Doc.pdf", help="Path to the input PDF file (default: Merged_Doc.pdf)")
+    parser.add_argument("output_file", type=str, nargs='?', default="comp_Merged_Doc.pdf", help="Path for the output PDF file (default: comp_Merged_Doc.pdf)")
     parser.add_argument(
         "-c", "--compression", 
         type=int, 

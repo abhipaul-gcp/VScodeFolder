@@ -12,7 +12,7 @@ CSV_FILE_NAME = "Integration_links.csv"
 URL_COLUMN_NAME = "Link"            
 TITLE_COLUMN_NAME = "Title"         
 
-FINAL_OUTPUT_FILENAME = "Merged_Documentation_Output.pdf"
+FINAL_OUTPUT_FILENAME = "Merged_Doc.pdf"
 TEMP_DIRECTORY = "./temp_pdfs"
 # ---------------------
 

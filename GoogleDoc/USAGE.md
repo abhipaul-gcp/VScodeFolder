@@ -51,12 +51,25 @@ This will create a file named `Merged_Documentation_Output.pdf`. This file is a 
 
 The merged PDF file can be quite large. This final step uses `pdf_compressor.py` to reduce the file size of the `Merged_Documentation_Output.pdf`.
 
-**To execute:**
+**Default Usage (No Arguments):**
 
-Run the following command in your terminal. You can specify a compression level from 0 (no compression) to 9 (maximum compression).
+If you run the script without any arguments, it will automatically:
+*   Use `Merged_Documentation_Output.pdf` as the input file.
+*   Save the compressed file as `compressed_Merged_Doc.pdf`.
+*   Use the default compression level (9).
 
+To execute with default settings:
 ```bash
-python pdf_compressor.py Merged_Documentation_Output.pdf [output_filename.pdf] -c [compression_level]
+python pdf_compressor.py
+```
+
+**Custom Usage:**
+
+You can still specify the input file, output file, and compression level as command-line arguments.
+
+To execute with custom settings:
+```bash
+python pdf_compressor.py [input_filename.pdf] [output_filename.pdf] -c [compression_level]
 ```
 
 **Example:**
