@@ -45,17 +45,17 @@ python web_to_pdf_merger.py
 
 **Output:**
 
-This will create a file named `Merged_Documentation_Output.pdf`. This file is a combination of all the documentation pages.
+This will create a file named `Merged_Doc.pdf`. This file is a combination of all the documentation pages.
 
 ### Step 3: Compress the Merged PDF
 
-The merged PDF file can be quite large. This final step uses `pdf_compressor.py` to reduce the file size of the `Merged_Documentation_Output.pdf`.
+The merged PDF file can be quite large. This final step uses `pdf_compressor.py` to reduce the file size of the `Merged_Doc.pdf`.
 
 **Default Usage (No Arguments):**
 
 If you run the script without any arguments, it will automatically:
-*   Use `Merged_Documentation_Output.pdf` as the input file.
-*   Save the compressed file as `compressed_Merged_Doc.pdf`.
+*   Use `Merged_Doc.pdf` as the input file.
+*   Save the compressed file as `comp_Merged_Doc.pdf`.
 *   Use the default compression level (9).
 
 To execute with default settings:
@@ -74,10 +74,10 @@ python pdf_compressor.py [input_filename.pdf] [output_filename.pdf] -c [compress
 
 **Example:**
 
-To compress the PDF with a high compression level (e.g., 5) and save it as `compressed_documentation.pdf`, use the following command:
+To compress the PDF with a high compression level (e.g., 5) and save it as `comp_documentation.pdf`, use the following command:
 
 ```bash
-python pdf_compressor.py Merged_Documentation_Output.pdf compressed_documentation.pdf -c 5
+python pdf_compressor.py Merged_Doc.pdf comp_documentation.pdf -c 5
 ```
 
 **Output:**
